@@ -241,7 +241,7 @@ pre {
           <hgroup>
             <h1>Welcome to your Ruby application on OpenShift</h1>
           </hgroup>
-
+          <h1> TESTING BUILD PROCESS </h1>
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
